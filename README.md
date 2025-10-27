@@ -1,4 +1,4 @@
-# Structural-Profiles-in-Powerlifting-a-Statistical Analysis
+# Structural Profiles in Powerlifting: a Statistical Analysis
 A statistical analysis of IPF powerlifting data using K-Means clustering to identify distinct athlete profiles based on their lift percentages.
 
 This project performs a statistical analysis on the official OpenPowerlifting dataset to identify distinct structural profiles among competitive powerlifters within the International Powerlifting Federation (IPF).
